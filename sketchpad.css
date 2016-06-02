@@ -1,0 +1,52 @@
+
+table{
+	border-collapse: collapse;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+
+td{
+	
+	opacity: 1;
+}
+
+
+
+.button-bar{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	left: 350px;
+}
+
+.button{
+	display: inline-block;
+	height:30px;
+	width: 100px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: grey;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 10px;
+	
+	margin-top: 30px;
+}
+
+.opaque{
+	
+	opacity: 0.1;
+	
+}
+
+.active{
+	background-color: grey;
+}
+
+.grid{
+
+	
+}
